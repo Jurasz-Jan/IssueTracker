@@ -59,4 +59,4 @@ Table: `issues`
 | `open`        | `BOOLEAN`          | `true` for open, `false` for closed issues |
 
 
-Project was made as a part of FreeCodeCamp's course of Quality Assurance.
+Project was made as a part of FreeCodeCamp's course of Quality Assurance. 
