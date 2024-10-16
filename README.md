@@ -1,6 +1,7 @@
 # Issue Tracker API
 
 A Node.js-based API for tracking issues (problems) within specific projects, using PostgreSQL for data persistence. This API allows creating, reading, updating, and deleting (CRUD) issues for different projects.
+Tested with Mocha and Chai.
 
 
 ## Features
